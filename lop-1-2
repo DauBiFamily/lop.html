@@ -54,8 +54,7 @@ const grade1Data = {
   name:"Lớp 1",
   subjects:{
     math:{
-      summary: {
-                strengths: ["Thành phần phép tính (Số hạng, Tổng)", "Đổi đơn vị (dm, cm)", "Xem đồng hồ giờ đúng"],
+                 strengths: ["Thành phần phép tính (Số hạng, Tổng)", "Đổi đơn vị (dm, cm)", "Xem đồng hồ giờ đúng"],
                 weaknesses: ["Tính chính xác khi cộng trừ (có nhớ)", "Tư duy cấu tạo số (số lớn nhất/nhỏ nhất)", "Giải toán có lời văn"],
                 intro: "Chào mừng bạn trở lại! Dựa trên bài kiểm tra vừa qua, chúng mình đã tổng hợp lại lộ trình ôn tập này. Bạn đã làm rất tốt các phần cơ bản, nhưng chúng ta cần rèn luyện thêm một chút về tính toán cẩn thận và các bài toán đố nhé."
             },
